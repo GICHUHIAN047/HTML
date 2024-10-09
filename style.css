@@ -1,0 +1,13 @@
+h1 {
+  color: greenyellow;
+  font-family: verdana;
+  font-size: 200%;
+  border: 2px solid powderblue;	
+  padding: 30px;
+  margin: 50px;
+} 
+p {
+	color: red;
+	font-family: courier;
+	font-size: 170%;
+}
